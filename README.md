@@ -15,7 +15,7 @@
 
 ## Getting Started
 
-1. **Download SLNet**: Get the latest version from the [Releases](https://github.com/yourusername/SLNet/releases) page.
+1. **Download SLNet**: Get the latest version from the [Releases](https://github.com/TowrenDev/SLNet/releases) page.
 2. **Install**: Follow the instructions in the installer to set up SLNet on your computer.
 3. **Launch and Play**: Open SLNet, select a server, and enjoy a hassle-free connection to SCP: Secret Laboratory!
 
@@ -26,14 +26,14 @@
 We are actively looking for contributors to help improve SLNet. Whether it's testing, bug reports, or feature suggestions, we want to hear from you! Here's how you can contribute:
 
 1. **Join the Community**: Provide feedback and suggestions on how SLNet can be improved.
-2. **Report Bugs**: Found a bug? Let us know by opening an issue in the [Issues](https://github.com/yourusername/SLNet/issues) section.
+2. **Report Bugs**: Found a bug? Let us know by opening an issue in the [Issues](https://github.com/TowrenDev/SLNet/issues) section.
 3. **Contribute Code**: If you're a developer, fork the repository, submit pull requests, and help us build out new features.
 
 ---
 
 ## Join Our Growing Community
 
-We're building a community of SCP: Secret Laboratory players, developers, and testers who are helping to shape SLNet. Your feedback is invaluable in improving the tool. Follow us on social media or check the [Discussions](https://github.com/yourusername/SLNet/discussions) section to get involved!
+We're building a community of SCP: Secret Laboratory players, developers, and testers who are helping to shape SLNet. Your feedback is invaluable in improving the tool. Follow us on social media or check the [Discussions](https://github.com/TowrenDev/SLNet/discussions) section to get involved!
 
 ---
 
